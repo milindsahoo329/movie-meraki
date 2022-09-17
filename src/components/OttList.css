@@ -1,0 +1,17 @@
+.main-container{
+    width: 50%;
+}
+
+.ottcontent-list{
+    width: 50%;
+}
+
+.playlistHeading {
+    align-items: center;
+    margin-left: 20%;
+    color: azure;
+}
+
+.listitemtext{
+    color: azure
+}

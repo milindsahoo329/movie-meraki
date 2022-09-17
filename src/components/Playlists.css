@@ -1,0 +1,33 @@
+.main-container-myplaylists {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2%;
+    padding: 2%;
+    max-width: 100%;
+    /* width: 80%; */
+}
+
+.main-container-topplaylists {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2%;
+    padding: 2%;
+    max-width: 100%;
+    /* width: 80%; */
+}
+
+.playlists{
+    margin-top: 100px;
+    padding: auto;
+    width: 100%;
+}
+
+.createButton{
+    margin-left: 5%;
+}
+
+.playlistCard{
+    margin-bottom: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+}

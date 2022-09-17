@@ -1,0 +1,47 @@
+.App {
+  background-color: lightgray;
+  min-height: 100vh;
+  padding-bottom: 100px;
+  background-image: url('../public/images/PexelsFranseco.jpg')
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.text-to-right {
+  direction: rtl;
+  text-align: right;
+}
+
+.navbar-brand.brand {
+  color: white;
+  padding: 0;
+  margin-right: 4rem;
+}
+
+.navbar-nav.nav-link.link {
+  color: white!important;
+}
+
+.navItem {
+  color: white!important;
+}
+
+.nav-link {
+  padding: 0;
+}
+
+.main-container {
+  margin-top: 20px;
+}
+
+img.moviesLogo {
+  height: 50px;
+  padding-right: 5px;
+}
+
+.navbar {
+  background-color: black;
+  margin-bottom: 2%;
+}
